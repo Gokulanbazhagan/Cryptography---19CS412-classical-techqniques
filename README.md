@@ -105,7 +105,7 @@ int main() {
 
 
 ## RESULT:
-The program is executed successfully
+The program for Caeser Cipher is executed successfully
 
 ---------------------------------
 
@@ -288,7 +288,7 @@ void decrypt(char str[], char keyTable[SIZE][SIZE]) {
 
 
 ## RESULT:
-The program is executed successfully
+The program for PlayFair Cipher is executed successfully
 
 
 ---------------------------
@@ -423,7 +423,7 @@ int main() {
 
 
 ## RESULT:
-The program is executed successfully
+The program for Hill Cipher is executed successfully
 
 -------------------------------------------------
 
@@ -532,7 +532,7 @@ OUTPUT :
 ![image](https://github.com/user-attachments/assets/2f22564f-5960-4441-ad40-85caa20f7e49)
 
 ## RESULT:
-The program is executed successfully
+The program for Vigenere Cipher is executed successfully
 
 -----------------------------------------------------------------------
 
@@ -620,4 +620,4 @@ int main() {
 ![image](https://github.com/user-attachments/assets/ab805807-db10-4170-a4b0-793b527d4130)
 
 ## RESULT:
-The program is executed successfully
+The program for Rail Fence Cipher is executed successfully
